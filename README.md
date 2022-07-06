@@ -20,8 +20,8 @@ Please enter Backup folder path: /home/user/backup/
 Windows
 --------
 
-Please enter Source folder path: C:\\work\\code 
+Please enter Source folder path: "C:\\\work\\\\code"
 
-Please enter Backup folder path: C:\\work\\backup 
+Please enter Backup folder path: "C:\\\work\\\\backup" 
 
 
