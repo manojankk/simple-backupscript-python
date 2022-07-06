@@ -1,5 +1,6 @@
 # simple-backupscript-python
-A very simple folder backup script which backups your work/project folder daily. Work in windows/unix/mac
+A very simple folder backup script which backups your work/project folder daily. Works in Windows/Linux/Mac
+It copies all files and sub-folders into a date based folder,zip it and save 
 
 Python Version : 3 and above
 
